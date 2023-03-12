@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/config/SecurityConfig.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/config/WebAppInitializer.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/config/WebConfig.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/config/AppConfig.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/config/WebSecurityInitializer.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/UsernamePasswordAuthToken.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/AuthenticationManager.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/FbAuthProvider.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/UsernamePasswordAuthProvider.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/AuthenticationManagerImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/FbAuthToken.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/AuthenticationProvider.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/security/Token.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/dao/impl/CategoryDaoImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/dao/impl/ProductDaoImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/dao/impl/UserDaoImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/dao/UserDao.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/dao/CategoryDao.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/dao/ProductDao.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/controller/ProductController.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/controller/CustomGlobalExceptionHandler.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/controller/IndexController.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/controller/UserController.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/Main.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/dto/ProductResponseDto.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/dto/UserResponseDto.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/dto/ProductRequestDto.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/dto/UserRequestDto.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/Product.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/Category.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/model/User.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/impl/CategoryServiceImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/impl/UserServiceImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/impl/ProductServiceImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/impl/AuthenticationServiceImpl.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/UserService.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/ProductService.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/mapper/ProductDtoMapper.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/mapper/UserDtoMapper.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/AuthenticationService.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/java/mate/academy/service/CategoryService.java">
+</file>
+<file name="/Users/sergii/IdeaProjects/jv-spring-security-hw/src/main/resources/db.properties">
+</file>
+</checkstyle>
